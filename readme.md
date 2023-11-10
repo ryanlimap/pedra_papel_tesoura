@@ -1,4 +1,4 @@
-## <center> Pedra, Papel e Tesoura </center>
+###  Pedra, Papel e Tesoura 
 
 # 🚀 Começando:
 
